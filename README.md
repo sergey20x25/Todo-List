@@ -2,7 +2,7 @@
 Todo list app
 
 ## Using
-React, hooks, context
+React, hooks, context, react router
 
 Firebase
 
